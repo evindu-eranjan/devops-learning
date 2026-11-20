@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is another MAIN version
+=======
+This is the FEATURE version
+>>>>>>> feature-conflict
+
+This is the final merged version
