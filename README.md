@@ -20,3 +20,7 @@ I am learning DevOps from beginner level.
 - Docker
 - Kubernetes
 - AWS
+
+## Current Status
+
+Learning Git Fetch and Pull.
