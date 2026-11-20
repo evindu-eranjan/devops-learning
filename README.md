@@ -11,3 +11,12 @@ I am learning DevOps from beginner level.
 - Kubernetes
 - AWS
 - CI/CD
+
+## Tools I Am Learning
+
+- Git
+- GitHub
+- Linux
+- Docker
+- Kubernetes
+- AWS
